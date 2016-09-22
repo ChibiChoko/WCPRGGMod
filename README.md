@@ -17,4 +17,5 @@ Wing Commander Privateer (MS-DOS)
 [Vega Strike](http://vegastrike.sourceforge.net/)
 
 Will attempt to update all source files to latest stable Vega Strike release as well. (0.5.1 r1)
+
 Also, I will do my best to respect all prior contributors and liscenses involved.

@@ -1,1 +1,192 @@
+Temp Credits Pulled from WCP Remake derelict site
 
+Privateer Remake
+
+Project Lead
+Jason "MamiyaOtaru" Winzenried
+ 
+
+Programming
+Mike Byron, Daniel "Hellcatv" Horn, Alex Rawass, John "JackS" Sampson, Ace123, compughatt, Scheherazade, Surfdargent
+ 
+
+Artwork & 3D Modeling
+John "JohnC" Cordell, Peter "PeteyG" Griffin, Matthew "MKruer" Kruer, Nikolay "Cyberion" Ivliev, Brad "BradMick" McKinstry, Eder Vieito, Jason "MamiyaOtaru" Winzenried, Darkmage, Fire Hawk, Scheherazade, VonHelton, Michael "Lynx" Lechner, Bob "Drassk" Garrish, Tom "a4paper" Bennett
+ 
+
+Speech & Sound Editing
+Ryan "Sphynx" Anderson, John "JohnC" Cordell, Gwendolynne "Wendy" Rocchi-Creasy, Darkmage, Nikolay "Cyberion" Ivliev, Justice, Kimberly Krupski, Zelena Oranjeva, smatthews, Kirjah "Zephiris" Salys
+ 
+
+Music Editing
+Roger "Zaarin" Holten
+ 
+
+Economic Model
+Gwendolynne "Wendy" Rocchi-Creasy, Simon Smith
+ 
+
+Quality Assurance
+John "JohnC" Cordell (v1.0)
+ 
+
+Playtesting
+Peter "PeteyG" Griffin, Jonathan "Iceman16" Heyden, Daniel "Hellcatv" Horn, Joe "JKeefe" Keefe, Matthew "MKruer" Kruer, Robert "Ridgerunner" Morris, Gwendolynne "Wendy" Rocchi-Creasy, Jason "MamiyaOtaru" Winzenried, Chemus, Crumb, Dumpshock, Floater, Ghost, hoovsbin, Hurleybird, ilricca, incubator, kilolima, KnightLight, LordUther, Moonsword, Mirage, powel99, Rushifell, ScAvenger001, Ryan "Sphynx" Anderson, tcat92, Thomas I. "TIRex" Richter, zergnerd
+ 
+
+Documentation
+Kim "Silverain" Scutts, Joe "JKeefe" Keefe
+ 
+
+Website Development
+John "JohnC" Cordell
+ 
+
+SVN Source Support
+Matthew "MKruer" Kruer
+ 
+
+Universe Map
+John Guentzel, Ben "Bandit LOAF" Lesnick, Matthew "MKruer" Kruer
+ 
+
+Thanks to
+
+The Vega Strike engine development team;
+The CIC community and Freelancer modeling community
+ 
+
+Privateer
+
+Executive Producer
+Chris Roberts
+ 
+
+Producer
+R. Scott Russo
+ 
+
+Assosciate Producer
+Erin Roberts
+ 
+
+Lead Programmer
+Ed Maurer
+ 
+
+Programming
+Charles Cafrelli, Reinaldo Castro, Arthur DBianca, Edwin Herrell, Alex Jen, Richard Dean Johnson, Jeff Wilson
+ 
+
+Lead Designer
+Joel Manners
+ 
+
+Design
+Tom Kassebaum, Anthony Nichols, Kevin Potter, Phil Wattenbarger
+ 
+
+Original Design
+Joel Manners, Chris Roberts
+ 
+
+Artwork
+Chris Douglas, Bob Frye, Beverly Garland, Danny Garrett, Craig Halverson, Jake Roders, Brian Smith
+ 
+
+Screenplay
+G.P. Austin
+ 
+
+Music
+Nenad Vugrinec
+ 
+
+Sound Effects
+Randy Buck, John Tipton
+ 
+
+Sound Blaster Conversion
+Nenad Vugrinec, Mark Schaefgen
+ 
+
+Quality Assurance
+Jerrold Harrington, Bill LaCoste, Starr Long, Dan Orzulak, Toby Shelton, Dee Starns, Perry Stokes, Todd Wachhaus
+ 
+
+Document Writing
+Antohny Nichols, Kirsten Vaughan
+ 
+
+Document Editing
+David Ladyman
+ 
+
+Document Design
+Al Carnley, Trey Hermann, Jennifer Davis
+ 
+
+Package and Play Guide Cover Art
+Chris Douglas
+ 
+
+Package Design
+Jennifer Davis
+ 
+
+Special Thanks to
+Whitney Ayres, Bill Baldwin, Paul Isaac, David Lawell, Jesse Mark, Aaron Martin, Suzanne Taylor, Alan Perez, Jeff Wand, Kirk Winterrowd, Jason Yenawine, John Miles, Kevin Potter, Zack Simpson
+ 
+
+Privateer - Rightous Fire
+
+Producer
+Warren Spector
+ 
+
+Project Leader, Programing
+Arthur DiBianca
+ 
+
+Game Concept
+Phil Wattenbarger
+ 
+
+Conversations
+Arthur DiBianca, Phil Wattenbarger
+ 
+
+Design
+Phil Wattenbarger, Tom Kassebaum
+ 
+
+Art
+Alan Perez, Brian Smith, Melinda Bordelon
+ 
+
+Music
+Barry Leitch
+ 
+
+Graphic Design
+Trey Hermann
+ 
+
+Quality Assurance Lead
+Chris Douglas, Bob Frye, Beverly Garland, Danny Garrett, Craig Halverson, Jake Roders, Brian Smith
+ 
+
+Quality Assurance
+Charles Angel, Jerrold Harrington, Kevin Kushner
+ 
+
+Documentation
+Arthur DiBianca, Tuesday Frase, Melissa Tyler
+ 
+
+Special Thanks to
+Ed Maurer
+
+
+Wing Commander is a registered trademark of EA/Origin Systems Inc.
+All other trademarks are acknowledged as the property of their respective owners.

@@ -1,18 +1,19 @@
 Temp Credits Pulled from WCP Remake derelict site
 
-Privateer Remake
+
+WC Privateer Remake Credits
 
 Project Lead
 Jason "MamiyaOtaru" Winzenried
- 
+
 
 Programming
 Mike Byron, Daniel "Hellcatv" Horn, Alex Rawass, John "JackS" Sampson, Ace123, compughatt, Scheherazade, Surfdargent
- 
+
 
 Artwork & 3D Modeling
 John "JohnC" Cordell, Peter "PeteyG" Griffin, Matthew "MKruer" Kruer, Nikolay "Cyberion" Ivliev, Brad "BradMick" McKinstry, Eder Vieito, Jason "MamiyaOtaru" Winzenried, Darkmage, Fire Hawk, Scheherazade, VonHelton, Michael "Lynx" Lechner, Bob "Drassk" Garrish, Tom "a4paper" Bennett
- 
+
 
 Speech & Sound Editing
 Ryan "Sphynx" Anderson, John "JohnC" Cordell, Gwendolynne "Wendy" Rocchi-Creasy, Darkmage, Nikolay "Cyberion" Ivliev, Justice, Kimberly Krupski, Zelena Oranjeva, smatthews, Kirjah "Zephiris" Salys
@@ -56,7 +57,7 @@ The Vega Strike engine development team;
 The CIC community and Freelancer modeling community
  
 
-Privateer
+Wing Commander Privateer Credits
 
 Executive Producer
 Chris Roberts
@@ -138,7 +139,7 @@ Special Thanks to
 Whitney Ayres, Bill Baldwin, Paul Isaac, David Lawell, Jesse Mark, Aaron Martin, Suzanne Taylor, Alan Perez, Jeff Wand, Kirk Winterrowd, Jason Yenawine, John Miles, Kevin Potter, Zack Simpson
  
 
-Privateer - Rightous Fire
+Wing Commander Privateer - Rightous Fire Credits
 
 Producer
 Warren Spector
